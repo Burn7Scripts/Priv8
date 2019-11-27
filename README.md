@@ -1,3 +1,12 @@
+# ATENÇÃO
+
+- Cuidado ao inicializar em teu DESKTOP.
+- Recomendado usar VPS para usá-lo.
+- VPS Free 10 minutos: https://sjc.cloudsigma.com/ui/4.0/login
+- Obrigado
+
+
+
 # Como usar?
 
 - Use: Python Burn7.py
