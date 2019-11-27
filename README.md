@@ -34,22 +34,23 @@ Para iniciar necesita dos reposítórios:
 
 # Como consigo proxies.
 
-Caso a ferramenta obtenha pouca força de pacotes baixe uma lista com diversos IpS de proxies.
-site, https://proxyscrape.com/free-proxy-list
+Caso a ferramenta pare de enviar muitos pacotes e comecar a ficar ruim, pegue mais proxies neste site!
+
+- site: https://proxyscrape.com/free-proxy-list
 
 
 
 
 # Créditos
 
-Burn7 - Criador
+- Burn7 - Criador
 
 
 
 
 # Contato-Criador
 
-Discord: Burn7 D3v1ce 1337#0016
+- Discord: Burn7 D3v1ce 1337#0016
 
 
 
