@@ -3,7 +3,9 @@
 - Use: Python Burn7.py
 - Selecione o site: https://example.com
 - Selecione a lista de proxy: example.txt
-- Selecione os bots que deseja upar: 
+- Selecione os bots que deseja upar [Recomendado 1000]: 1000
+
+Coloquei a lista de proxies nomeada como: p.txt atualizado dia 27/11/2019! ThX
 
 # Instalando...
 
