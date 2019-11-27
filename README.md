@@ -14,4 +14,8 @@ Burn7 - Criador
 
 # Contato-Criador
 
-Burn7 D3v1ce 1337#0016
+Discord: Burn7 D3v1ce 1337#0016
+
+# Greetz
+
+Marks, Ramirez, Iketani, Trash.
