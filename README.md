@@ -29,13 +29,13 @@ Coloquei a lista de proxies nomeada como: p.txt atualizado dia 27/11/2019! ThX
 
 Caso aconteca algum erro mantenha um contato via discord..
 Está na ROL de baixo!
-Testado e funciondando perfeitamente no Kali linux 2019.4.AMD64 e Pentestbox Windows 64BIT!
+Testado e funcionando perfeitamente no Kali linux 2019.4.AMD64 e Pentestbox Windows 64BIT!
 
 
 
-# Qual versão para inicia-lo?
+# Quais repositórios para inicia-lo?
 
-Para iniciar necesita dos reposítórios:
+Para iniciar necessita dos reposítórios:
 
 - Python
 - git (Para instalação!)
