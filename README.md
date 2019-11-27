@@ -20,7 +20,7 @@ Coloquei a lista de proxies nomeada como: p.txt atualizado dia 27/11/2019! ThX
 
 - apt install git
 - git clone https://github.com/Burn7Scripts/Priv8/
-- cd DDoS
+- cd Priv8
 - python Burn7.py
 
 
