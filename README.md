@@ -1,15 +1,16 @@
 # Como usar?
 
-A Ferramenta utiliza o método post-get e envia em diversos IPs Diferentest, chamados proxies.
-
-
+- Use: Python Burn7.py
+- Selecione o site: https://example.com
+- Selecione a lista de proxy: example.txt
+- Selecione os bots que deseja upar: 
 
 # Instalando...
 
-apt install git
-git clone https://github.com/Burn7Scripts/DDoS/
-cd DDoS
-python Burn7.py
+- apt install git
+- git clone https://github.com/Burn7Scripts/DDoS/
+- cd DDoS
+- python Burn7.py
 
 
 
@@ -17,7 +18,7 @@ python Burn7.py
 
 Caso aconteca algum erro mantenha um contato via discord..
 Está na ROL de baixo!
-Testado e funciondando perfeitamente no Kali linux 2019.4.AMD64.
+Testado e funciondando perfeitamente no Kali linux 2019.4.AMD64 e Pentestbox Windows 64BIT!
 
 
 
@@ -26,13 +27,7 @@ Testado e funciondando perfeitamente no Kali linux 2019.4.AMD64.
 Para iniciar necesita dos reposítórios:
 
 - Python
-
-
-
-
-# Disponível ao Termux (Terminal Mobile)?
-
-Não, este script foi criado e extraído para o Kali Linux Rolling 12LTS
+- git (Para instalação!)
 
 
 
