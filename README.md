@@ -54,17 +54,17 @@ Caso a ferramenta pare de enviar muitos pacotes e comecar a ficar ruim, pegue ma
 
 # Créditos
 
-- Burn7 - Criador
+- Kaio_Scarface - Criador
 
 
 
 
 # Contato-Criador
 
-- Discord: Burn7 D3v1ce 1337#0016
+- Discord: Kaio_Scarface 1337#0016
 
 
 
 # Greetz
 
-Marks, Ramirez, Iketani, Trash.
+Ramirez, Iketani, Officer.
