@@ -14,7 +14,7 @@
 - Selecione a lista de proxy: example.txt
 - Selecione os bots que deseja upar [Recomendado 1000]: 1000
 
-Coloquei a lista de proxies nomeada como: p.txt atualizado dia 27/11/2019! ThX
+Coloquei a lista de proxies nomeada como: p.txt atualizado dia 01/12/2019 ás 03:00! ThX
 
 # Instalando...
 
