@@ -67,4 +67,4 @@ Caso a ferramenta pare de enviar muitos pacotes e comecar a ficar ruim, pegue ma
 
 # Greetz
 
-Ramirez, Iketani, Officer.
+Ramirez - Iketani - OfficeR - Collins - Sc00p3.
